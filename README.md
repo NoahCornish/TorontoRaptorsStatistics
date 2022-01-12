@@ -4,3 +4,5 @@ In this repository, you will be able to access the most recent game box score fo
 
 Raptors player shots will be updated after each game as well.
 Eastern & Western Standings will be updated daily
+
+You may use this data freely but must cite
